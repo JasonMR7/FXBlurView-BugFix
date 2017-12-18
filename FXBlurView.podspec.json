@@ -7,14 +7,14 @@
     "Nick Lockwood": "http://charcoaldesign.co.uk/"
   },
   "source": {
-    "git": "https://github.com/JasonMR7/FXBlurView.git",
+    "git": "https://github.com/JasonMR7/FXBlurView-BugFix.git",
     "tag": "1.6.4"
   },
-  "homepage": "http://github.com/JasonMR7/FXBlurView",
+  "homepage": "http://github.com/JasonMR7/FXBlurView-BugFix",
   "platforms": {
     "ios": "4.3"
   },
-  "source_files": "FXBlurView",
+  "source_files": "FXBlurView-BugFix",
   "frameworks": [
     "Accelerate",
     "QuartzCore"
